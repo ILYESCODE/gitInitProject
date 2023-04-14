@@ -9,6 +9,6 @@
 
 </head>
 <body>
-    <h1> TITRE DE LA PAGE </h1>
+    <h1> TITRE DE LA -PAGE- </h1>
 </body>
 </html> 
